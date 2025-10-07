@@ -10,17 +10,9 @@ Welcome to my **sample QA portfolio**, featuring manual testing and defect repor
 
 - 🗒 **To-Do List Website** — Simple task management app used for functional & UI validation.  
 - ☕ **Coffee Cart Website** — Mini e-commerce cart tested for form validation, navigation, and purchase flow.
+- 🛠️ **PARKING COST CALCULATOR Website** — Mini parking website tested for form validation.
 
 These projects demonstrate **bug identification, defect documentation**, and **expected vs actual analysis** — all aligned with professional QA standards.
-
----
-
-## 🧠 Objectives
-
-✔ Validate user interface and functional behavior  
-✔ Identify usability issues and navigation errors  
-✔ Document reproducible steps with clarity  
-✔ Deliver actionable feedback for developers
 
 ---
 
@@ -30,7 +22,7 @@ These projects demonstrate **bug identification, defect documentation**, and **e
 |-----------|------------------|
 | **Testing Type** | Manual Testing |
 | **Browsers** | Chrome, Edge |
-| **Documentation** | Excel, Google Sheets |
+| **Documentation** | Trello   |
 | **Screenshots** | Snipping Tool, Lightshot |
 | **Reporting Format** | Defect Log + Screenshot Evidence |
 
@@ -67,23 +59,6 @@ Example embedding:
 ![To-Do List Bug](screenshots/todo_defect_01.png)
 ![Coffee Cart Bug](screenshots/coffee_cart_defect_02.png)
 ```
-
----
-
-## 📈 Deliverables
-
-- 🧾 Defect Reports (Excel / PDF)  
-- 🖼 Annotated Screenshots  
-- 🧩 Expected vs Actual Analysis  
-- 💡 QA Recommendations
-
----
-
-## 🏁 Outcomes
-
-✨ Exposed UI and functional issues across both applications  
-🧠 Improved developer awareness through clear bug documentation  
-📊 Enhanced testing coverage and validation consistency
 
 ---
 
