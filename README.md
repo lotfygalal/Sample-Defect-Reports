@@ -58,8 +58,8 @@ Add screenshots of discovered defects below for clear visual reference.
 /Sample screenshots/ (1).png
 Example embedding:
 ```markdown
-![To-Do List Bug](Sample%20screenshots/%281%29.png)
-![Coffee Cart Bug](Sample%20screenshots/%282%29.png)
+![To-Do List Bug](SampleScreenshots/1.png)
+![Coffee Cart Bug](SampleScreenshots/2.png)
 
 ```
 
