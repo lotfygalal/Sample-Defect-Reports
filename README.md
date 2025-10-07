@@ -49,15 +49,17 @@ These projects demonstrate **bug identification, defect documentation**, and **e
 Add screenshots of discovered defects below for clear visual reference.
 
 ```
-📂 /screenshots/
-   ├── todo_defect_01.png
-   ├── coffee_cart_defect_02.png
+📂 /Sample screenshots/
+   ├── (1).png
+   ├── (2).png
+   ├── (3).png
+   ├── (4).png
 ```
-
+/Sample screenshots/ (1).png
 Example embedding:
 ```markdown
-![To-Do List Bug](screenshots/todo_defect_01.png)
-![Coffee Cart Bug](screenshots/coffee_cart_defect_02.png)
+![To-Do List Bug](Sample screenshots/(1).png)
+![Coffee Cart Bug](Sample screenshots/(2).png)
 ```
 
 ---
