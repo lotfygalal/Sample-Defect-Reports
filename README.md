@@ -57,7 +57,9 @@ Add screenshots of discovered defects below for clear visual reference.
 ```
 Example embedding:
 ```markdown
-![To-Do List Bug]([SampleScreenshots/1.png](https://raw.githubusercontent.com/lotfygalal/Sample-Defect-Reports/refs/heads/main/SampleScreenshots/1.png)
+![To-Do List Bug](https://raw.githubusercontent.com/lotfygalal/Sample-Defect-Reports/main/SampleScreenshots/1.png)
+<img width="1024" height="1024" alt="profile" src="https://github.com/user-attachments/assets/c43333e8-da79-4001-9341-dcf08a4bb2bd" />
+
 
 ```
 
